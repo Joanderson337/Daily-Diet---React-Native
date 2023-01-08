@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "dailydiet",
-    "slug": "dailydiet",
+    "name": "daily2",
+    "slug": "daily2",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -12,28 +12,33 @@
       "backgroundColor": "#ffffff"
     },
     "updates": {
-      "fallbackToCacheTimeout": 0
+      "fallbackToCacheTimeout": 0,
+      "url": "https://u.expo.dev/0fa9bf3b-b3e4-4476-a228-b5b4498a72b5"
     },
     "assetBundlePatterns": [
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.joanderson337.daily2"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
       },
-      "package": "com.joanderson337.dailydiet"
+      "package": "com.joanderson337.daily2"
     },
     "web": {
       "favicon": "./assets/favicon.png"
     },
     "extra": {
       "eas": {
-        "projectId": "c8d6e274-4d95-42e5-bb01-0606853b2e9a"
+        "projectId": "0fa9bf3b-b3e4-4476-a228-b5b4498a72b5"
       }
+    },
+    "runtimeVersion": {
+      "policy": "sdkVersion"
     }
   }
 }
