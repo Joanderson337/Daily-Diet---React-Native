@@ -19,7 +19,7 @@ Nesse desafio foi realizado para vai reforçar os **conceitos mais importantes**
 
 ## Para executar o projeto ⤸
 
-   * 1 - Baixe o app do expo em seu celular
+   ## Baixe o app do expo em seu celular
 
    Link Android: https://play.google.com/store/apps/details?id=host.exp.exponent
 
