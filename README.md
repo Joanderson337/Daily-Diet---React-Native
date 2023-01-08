@@ -42,7 +42,7 @@ Nesse desafio foi realizado para vai reforçar os **conceitos mais importantes**
 
 ## Screenshots
   <br/>
- <img width="400px" src="https://user-images.githubusercontent.com/77758027/210123827-3da45e0f-8987-4a57-9921-274d2ac14cfd.png" />
+ <img width="400px" src="https://user-images.githubusercontent.com/77758027/211205379-805b861c-09d7-4bbc-999e-3b8360574236.png" />
 
 
 
